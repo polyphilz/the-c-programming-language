@@ -35,3 +35,7 @@ No exercises.
 ### Exercise 1.6
 
 See [char_copying.c](char_copying.c).
+
+### Exercise 1.7
+
+See [print_eof.c](print_eof.c).
