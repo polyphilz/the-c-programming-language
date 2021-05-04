@@ -25,3 +25,9 @@ See [celsius_fahr_table.c](celsius_fahr_table.c).
 ### Exercise 1.5
 
 See [fahr_celsius_table_backwards.c](fahr_celsius_table_backwards.c).
+
+## 1.4 - Symbolic Constants
+
+No exercises.
+
+## 1.5 - Character Input and Output
