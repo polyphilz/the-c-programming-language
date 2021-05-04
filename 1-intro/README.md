@@ -31,3 +31,7 @@ See [fahr_celsius_table_backwards.c](fahr_celsius_table_backwards.c).
 No exercises.
 
 ## 1.5 - Character Input and Output
+
+### Exercise 1.6
+
+See [char_copying.c](char_copying.c).
