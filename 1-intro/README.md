@@ -39,3 +39,7 @@ See [char_copying.c](char_copying.c).
 ### Exercise 1.7
 
 See [print_eof.c](print_eof.c).
+
+### Exercise 1.8
+
+See [count_blanks_tabs_newlines.c](count_blanks_tabs_newlines.c).
