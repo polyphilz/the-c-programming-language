@@ -43,3 +43,7 @@ See [print_eof.c](print_eof.c).
 ### Exercise 1.8
 
 See [count_blanks_tabs_newlines.c](count_blanks_tabs_newlines.c).
+
+### Exercise 1.9
+
+See [copy_io_strip_blanks.c](copy_io_strip_blanks.c).
