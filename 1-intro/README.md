@@ -57,3 +57,7 @@ See [copy_io_tab_backspace_backslash.c](copy_io_tab_backspace_backslash.c).
 - Leading or trailing white spaces, tabs and/or newline characters
 - First and last words
 - 1-character long words
+
+### Exercise 1.12
+
+See [print_words_on_lines.c](print_words_on_lines.c).
