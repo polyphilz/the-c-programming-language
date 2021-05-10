@@ -47,3 +47,7 @@ See [count_blanks_tabs_newlines.c](count_blanks_tabs_newlines.c).
 ### Exercise 1.9
 
 See [copy_io_strip_blanks.c](copy_io_strip_blanks.c).
+
+### Exercise 1.10
+
+See [copy_io_tab_backspace_backslash.c](copy_io_tab_backspace_backslash.c).
