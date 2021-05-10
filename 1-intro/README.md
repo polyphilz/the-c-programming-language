@@ -61,3 +61,9 @@ See [copy_io_tab_backspace_backslash.c](copy_io_tab_backspace_backslash.c).
 ### Exercise 1.12
 
 See [print_words_on_lines.c](print_words_on_lines.c).
+
+## 1.6 - Arrays
+
+### Exercise 1.13
+
+See [word_length_histogram.c](word_length_histogram.c).
