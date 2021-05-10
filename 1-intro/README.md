@@ -51,3 +51,9 @@ See [copy_io_strip_blanks.c](copy_io_strip_blanks.c).
 ### Exercise 1.10
 
 See [copy_io_tab_backspace_backslash.c](copy_io_tab_backspace_backslash.c).
+
+### Exercise 1.11
+
+- Leading or trailing white spaces, tabs and/or newline characters
+- First and last words
+- 1-character long words
