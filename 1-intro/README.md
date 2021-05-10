@@ -67,3 +67,7 @@ See [print_words_on_lines.c](print_words_on_lines.c).
 ### Exercise 1.13
 
 See [word_length_histogram.c](word_length_histogram.c).
+
+### Exercise 1.14
+
+See [char_freq_histogram.c](char_freq_histogram.c).
