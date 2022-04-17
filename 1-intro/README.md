@@ -91,3 +91,7 @@ Skipped.
 ### Exercise 1.17
 
 See [lines_80.c](lines_80.c).
+
+### Exercise 1.18
+
+See [remove_trailing_space.c](remove_trailing_space.c).
