@@ -77,3 +77,17 @@ See [char_freq_histogram.c](char_freq_histogram.c).
 ### Exercise 1.15
 
 See [fahr_celsius_table_with_function.c](fahr_celsius_table_with_function.c).
+
+## 1.8 - Arguments — Call by Value
+
+No exercises.
+
+## 1.9 – Character Arrays
+
+### Exercise 1.16
+
+Skipped.
+
+### Exercise 1.17
+
+See [lines_80.c](lines_80.c).
