@@ -95,3 +95,7 @@ See [lines_80.c](lines_80.c).
 ### Exercise 1.18
 
 See [remove_trailing_space.c](remove_trailing_space.c).
+
+### Exercise 1.19
+
+See [reverse_input.c](reverse_input.c).
