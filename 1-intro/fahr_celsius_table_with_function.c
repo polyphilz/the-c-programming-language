@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int print_table(int lower, int upper, int step);
+void print_table(int lower, int upper, int step);
 float convert_fahr_to_celsius(float fahr);
 
 int main() {
@@ -9,7 +9,7 @@ int main() {
   return 0;
 }
 
-int print_table(int lower, int upper, int step) {
+void print_table(int lower, int upper, int step) {
   printf(" °f    °c\n");
   float fahr, celsius;
  
@@ -19,8 +19,6 @@ int print_table(int lower, int upper, int step) {
     printf("%3.0f %6.1f\n", fahr, celsius);
     fahr += step;
   }
-
-  return 0;
 }
 
 float convert_fahr_to_celsius(float fahr) {
