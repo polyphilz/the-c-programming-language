@@ -73,3 +73,7 @@ See [word_length_histogram.c](word_length_histogram.c).
 See [char_freq_histogram.c](char_freq_histogram.c).
 
 ## 1.7 - Functions
+
+### Exercise 1.15
+
+See [fahr_celsius_table_with_function.c](fahr_celsius_table_with_function.c).
