@@ -99,3 +99,21 @@ See [remove_trailing_space.c](remove_trailing_space.c).
 ### Exercise 1.19
 
 See [reverse_input.c](reverse_input.c).
+
+## 1.10 – External Variables and Scope
+
+### Exercise 1.20
+
+Skipped.
+
+### Exercise 1.21
+
+Skipped.
+
+### Exercise 1.22
+
+Skipped.
+
+### Exercise 1.23
+
+See [remove_comments.c](remove_comments.c).
