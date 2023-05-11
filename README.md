@@ -1,6 +1,9 @@
 # The C Programming Language - Exercise Solutions & Notes
 
-- [ ] [Chapter 1 - A Tutorial Introduction](1-intro)
+**Note** – I'm only doing the chapters/exercises I feel significant learning
+would actually occur, hence many exercises missing.
+
+- [x] [Chapter 1 - A Tutorial Introduction](1-intro)
 - [ ] [Chapter 2 - Types, Operators, and Expressions](2-types-operators-expressions)
 - [ ] [Chapter 3 - Control Flow](3-control-flow)
 - [ ] [Chapter 4 - Functions and Program Structure](4-functions-and-program-structure)
